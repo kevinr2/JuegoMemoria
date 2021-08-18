@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/JuegoMemoria/static/css/main.40ea097b.chunk.css",
+    "main.js": "/JuegoMemoria/static/js/main.2abbad3c.chunk.js",
+    "main.js.map": "/JuegoMemoria/static/js/main.2abbad3c.chunk.js.map",
+    "runtime-main.js": "/JuegoMemoria/static/js/runtime-main.6fb3880d.js",
+    "runtime-main.js.map": "/JuegoMemoria/static/js/runtime-main.6fb3880d.js.map",
+    "static/css/2.4426daaf.chunk.css": "/JuegoMemoria/static/css/2.4426daaf.chunk.css",
+    "static/js/2.cffb304f.chunk.js": "/JuegoMemoria/static/js/2.cffb304f.chunk.js",
+    "static/js/2.cffb304f.chunk.js.map": "/JuegoMemoria/static/js/2.cffb304f.chunk.js.map",
+    "index.html": "/JuegoMemoria/index.html",
+    "static/css/2.4426daaf.chunk.css.map": "/JuegoMemoria/static/css/2.4426daaf.chunk.css.map",
+    "static/css/main.40ea097b.chunk.css.map": "/JuegoMemoria/static/css/main.40ea097b.chunk.css.map",
+    "static/js/2.cffb304f.chunk.js.LICENSE.txt": "/JuegoMemoria/static/js/2.cffb304f.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/JuegoMemoria/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fb3880d.js",
+    "static/css/2.4426daaf.chunk.css",
+    "static/js/2.cffb304f.chunk.js",
+    "static/css/main.40ea097b.chunk.css",
+    "static/js/main.2abbad3c.chunk.js"
+  ]
+}
