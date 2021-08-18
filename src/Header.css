@@ -1,6 +1,5 @@
 header{
 	height: 50px;
-	border: 1px solid black;
 	margin-bottom: 10px;
 	display: flex;
 	justify-content: space-between;
@@ -10,10 +9,23 @@ header{
 .titulo{
 	font-size: 25px;
 	padding: 10px;
-	color: #ffff;
+	color: #fff;
 }
 .boton-reiniciar{
 	position: absolute;
 	left: 12px;
 	top: 52px;
+	padding: 15px;
+	border: 0px;
+	color:#fff;
+	background:  rgba(6,57,84,1);
+	transition: 0.2s;
+	border-radius: 5px;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+.boton-reiniciar:hover{
+	color: #255784;
+	background: #2196f3;
+	box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 10px #2196f3;
 }
