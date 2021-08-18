@@ -3,7 +3,8 @@ import FontAwesomeClasses from './fontAwesomeClasses';
 
 const NUMERO_DE_CARTAS = 20;
 
-export default () => {
+
+const ConstruirBarajas =() => {
 	const fontAwesomeClasses = FontAwesomeClasses();
 	let cartas = [];
 
@@ -20,3 +21,6 @@ export default () => {
 	}
 	return shuffle(cartas);
 };
+
+
+export default ConstruirBarajas;
